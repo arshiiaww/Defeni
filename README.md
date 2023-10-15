@@ -1,6 +1,6 @@
 # Defeni - An abnormally normal dictionary
 
-![Defeni Logo](Defe.png)
+![Defeni Logo](Defe-resized-to-128x128.png)
 
 Defeni, a very normal dictionary, that retrieves the definitions of all the words that you've inputed.
 
