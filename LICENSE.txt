@@ -1,0 +1,32 @@
+Defeni Non-Commercial Proprietary License
+Version 1.0
+
+This Non-Commercial Proprietary License (the "License") is a legally binding agreement between you ("User" or "Licensee") and Arshiiaww (the "Licensor") for the use of the Defeni software (the "Software"). By using the Software, you agree to be bound by the terms and conditions of this License.
+
+1. License Grant:
+   1.1. License: Licensor grants Licensee a non-exclusive, non-transferable, and revocable license to use the Software solely for non-commercial purposes.
+   1.2. Non-Commercial Use: Licensee may use the Software for personal, educational, or nonprofit purposes. Licensee may not use the Software for any commercial activities or purposes that generate revenue or income.
+
+2. Restrictions:
+   2.1. Prohibition on Commercial Use: Licensee shall not use the Software for any commercial or revenue-generating purposes, including but not limited to selling, leasing, or offering services based on the Software.
+   2.2. No Distribution: Licensee shall not distribute, sublicense, sell, or transfer the Software to third parties, except for non-commercial educational purposes.
+   2.3. No Modification: Licensee shall not modify, adapt, reverse engineer, decompile, or disassemble the Software.
+   2.4. Ownership: All rights, title, and interest in the Software, including all intellectual property rights, remain the exclusive property of Arshiiaww.
+
+3. Updates and Support:
+   3.1. Support: Licensor is not obligated to provide support, maintenance, updates, or bug fixes for the Software.
+   3.2. Updates: If Licensor provides updates or new versions of the Software, this License also applies to those updates.
+
+4. Fees: The License is granted free of charge for non-commercial use.
+
+5. Termination: This License is effective until terminated by Licensee or Licensor. Licensor may terminate the License at any time without notice.
+
+6. Disclaimer: The Software is provided "as is," without warranties of any kind. Licensor is not liable for any damages, including but not limited to direct, indirect, incidental, or consequential damages.
+
+7. Entire Agreement: This License constitutes the entire agreement between Licensee and Licensor concerning the Software.
+
+By using the Software, Licensee acknowledges that they have read, understood, and agreed to the terms and conditions of this License. If Licensee does not agree with these terms, they should not use the Software.
+
+Arshiiaww
+Email: arshiiajahed@gmail.com
+GitHub: https://github.com/arshiiaww
