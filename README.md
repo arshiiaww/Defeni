@@ -8,7 +8,6 @@ Defeni, a very normal dictionary, that retrieves the definitions of all the word
 
 - Retrieve definitions for words in your text.
 - A clean and intuitive user interface.
-- Quick access with an "Enter" button or by pressing "Enter" on your keyboard.
 
 ## How to Use
 
@@ -24,12 +23,12 @@ Defeni is distributed under the "Defeni Non-Commercial Proprietary License" (Ver
 
 Defeni is developed by Arshiiaww.
 
-- Email: [arshiiajahed@gmail.com](mailto:arshiiajahed@gmail.com)
+- Email: [arshiiaww@gmail.com](mailto:arshiiaww@gmail.com)
 - GitHub: [https://github.com/arshiiaww](https://github.com/arshiiaww)
 
 ## Installation
 
-Download the installer file for your platform and run it.
+Download the installer file in the releases section and run it.
 
 
 ## Feedback and Issues
